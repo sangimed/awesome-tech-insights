@@ -39,26 +39,26 @@ _A curated collection of cutting-edge tech resources for staying informed._ <br>
 
 ### Twitter Accounts
 
-- [Alex Xu](https://x.com/alexxubyte): Co-Founder of ByteByteGo | Author of the bestselling book series: ‘System Design Interview’.
+- [Alex Xu](https://x.com/alexxubyte) 🌟: Co-Founder of ByteByteGo | Author of the bestselling book series: ‘System Design Interview’.
 - [Mehdi Zed](https://x.com/jesuisundev): Sr. Software Engineer at Electronic Arts.
 - 
 
 ### Twitch Channels
 
-- [RomainLanz](https://www.twitch.tv/romainlanz): [AdonisJS](https://adonisjs.com/) [AdonisJS](https://adonisjs.com/) core member.
-- [Underscore_](https://www.twitch.tv/Micode): Le talk-show des passionnés de l'IT ➡️ 1 mercredi sur 2 à 19h sur twitch.tv/micode 🎙 Hacking, Dev, IA, Entrepreneuriat 🧑‍💻.
+- [Underscore_](https://www.twitch.tv/Micode) 🌟: Le talk-show des passionnés de l'IT ➡️ 1 mercredi sur 2 à 19h sur twitch.tv/micode 🎙 Hacking, Dev, IA, Entrepreneuriat 🧑‍💻.
+- [RomainLanz](https://www.twitch.tv/romainlanz): [AdonisJS](https://adonisjs.com/) core member.
 - [devgirl_](https://www.twitch.tv/devgirl_): 👩‍💻 Web Dev
 - [topklean](https://www.twitch.tv/topklean): Architecte SI technique.
 - More channels are available in the Software and Development section: https://www.twitch.tv/directory/category/software-and-game-development.
 
 ### Podcasts
 
-- [De Quoi Je Me Mail](https://open.spotify.com/show/5JcrhwudXwLMft4hYuYOBi?si=ad4d0cec9cf94cac): Le podcast qui parle de l'actualité du web et de la tech.
+- [De Quoi Je Me Mail](https://open.spotify.com/show/5JcrhwudXwLMft4hYuYOBi?si=ad4d0cec9cf94cac) 🌟: Le podcast qui parle de l'actualité du web et de la tech.
 - [Underscore_](https://open.spotify.com/show/1sz1NhoHqbpXbzNlpOnFoz?si=03588253b757414d): Le talk-show des passionnés de l'IT ➡️ 1 mercredi sur 2 à 19h sur twitch.tv/micode 🎙 Hacking, Dev, IA, Entrepreneuriat 🧑‍💻.
 - [Humans Coders Podcast](https://open.spotify.com/show/3tLO8LmKVl96cSp7J3INwh?si=3f978cdaf3d74019): Le podcast des développeurs.
 - [JS Party](https://open.spotify.com/show/2ySVrxGkN6n6frMTo9Nsrt?si=e7d4f175b7564de6): A community celebration of JavaScript and the web.
 
 ### Miscs
 
-- Pocket
-- Meetup
+- [Pocket](https://getpocket.com/home) 🌟: Personalize your Home to find interesting reads.
+- [Meetup](https://www.meetup.com/): Find events hosted by local groups where you can meet new people, try something new, or just do more of what you love.
