@@ -11,6 +11,15 @@ _A curated collection of cutting-edge tech resources for staying informed._ <br>
 
 ## Index
 
+- [Websites](#websites)
+- [Tech News Aggregators](#tech-news-aggregators)
+- [RSS Aggregators](#rss-aggregators)
+- [Youtube Channels](#youtube-channels)
+- [Twitter Accounts](#twitter-accounts)
+- [Twitch Channels](#twitch-channels)
+- [Podcasts](#podcasts)
+- [Miscellaneous](#miscs)
+
 ### Websites
 
 - [Developpez](https://www.developpez.com/): Le club des développeurs et IT pro.
@@ -42,7 +51,6 @@ _A curated collection of cutting-edge tech resources for staying informed._ <br>
 
 - [Alex Xu](https://x.com/alexxubyte) 🌟: Co-Founder of ByteByteGo | Author of the bestselling book series: ‘System Design Interview’.
 - [Mehdi Zed](https://x.com/jesuisundev): Sr. Software Engineer at Electronic Arts.
-- 
 
 ### Twitch Channels
 
