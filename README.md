@@ -1,6 +1,7 @@
 <div align='center'>
 
 # Awesome Tech Insights
+![awesome-logo](https://github.com/sangimed/awesome-tech-insights/assets/857405/63618b3c-9f64-4b1b-bdb2-ff0fec5cf2e0)
 
 _A curated collection of cutting-edge tech resources for staying informed._ <br>
 
