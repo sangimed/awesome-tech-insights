@@ -11,7 +11,7 @@ _A curated collection of cutting-edge tech resources for staying informed._ <br>
 
 ## Index
 
-- [Websites](#websites)
+- [Websites / Blogs](#websites)
 - [Tech News Aggregators](#tech-news-aggregators)
 - [RSS Aggregators](#rss-aggregators)
 - [Youtube Channels](#youtube-channels)
@@ -20,7 +20,7 @@ _A curated collection of cutting-edge tech resources for staying informed._ <br>
 - [Podcasts](#podcasts)
 - [Miscellaneous](#miscs)
 
-### Websites
+### Websites / Blogs
 
 - [Developpez](https://www.developpez.com/): Le club des développeurs et IT pro.
 - [Korben](https://korben.info/): Le blog geek et tech.
