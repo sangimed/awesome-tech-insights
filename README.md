@@ -5,7 +5,7 @@
 
 _A curated collection of cutting-edge tech resources for staying informed._ <br>
 
-![Message](https://img.shields.io/badge/I%20%E2%9D%A4%20-OpenSource-%23ff0055) ![Awesome-Repos](https://img.shields.io/badge/Awesome--repos-%23ff0055) 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 </div> <br>
 
@@ -28,6 +28,9 @@ _A curated collection of cutting-edge tech resources for staying informed._ <br>
 - [Korben](https://korben.info/): Le blog geek et tech.
 - [dev.to](https://dev.to/): A community of software developers getting together to help one another out.
 - [FreeCodeCamp](https://www.freecodecamp.org/news/): Learn to code for free.
+- [The Hacker News](https://thehackernews.com/): Cyber security news.
+- [linuxfr.org](https://linuxfr.org/): Actualité du Logiciel Libre et de Linux.
+- [Hackernoon](https://hackernoon.com/): Tech blog.
 
 ### Tech News Aggregators
 
@@ -62,7 +65,7 @@ _A curated collection of cutting-edge tech resources for staying informed._ <br>
 - [devgirl_](https://www.twitch.tv/devgirl_): 👩‍💻 Web Dev.
 - [topklean](https://www.twitch.tv/topklean): Architecte SI technique.
 - [llcoolchris_](https://www.twitch.tv/llcoolchris_): Senior Software Engineer.
-- More channels are available in the Software and Development section: https://www.twitch.tv/directory/category/software-and-game-development.
+- [Twidi_Angel](https://www.twitch.tv/twidi_angel): Développeur Python.
 
 ### Podcasts
 
