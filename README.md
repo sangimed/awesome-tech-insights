@@ -11,14 +11,16 @@ _A curated collection of cutting-edge tech resources for staying informed._ <br>
 
 ## Index
 
-- [Websites / Blogs](#websites)
-- [Tech News Aggregators](#tech-news-aggregators)
-- [RSS Aggregators](#rss-aggregators)
-- [Youtube Channels](#youtube-channels)
-- [Twitter Accounts](#twitter-accounts)
-- [Twitch Channels](#twitch-channels)
-- [Podcasts](#podcasts)
-- [Miscellaneous](#miscs)
+- [Awesome Tech Insights](#awesome-tech-insights)
+  - [Index](#index)
+    - [Websites / Blogs](#websites--blogs)
+    - [Tech News Aggregators](#tech-news-aggregators)
+    - [RSS Aggregators](#rss-aggregators)
+    - [YouTube Channels](#youtube-channels)
+    - [Twitter Accounts](#twitter-accounts)
+    - [Twitch Channels](#twitch-channels)
+    - [Podcasts](#podcasts)
+    - [Misc](#misc)
 
 ### Websites / Blogs
 
@@ -30,7 +32,7 @@ _A curated collection of cutting-edge tech resources for staying informed._ <br>
 ### Tech News Aggregators
 
 - [Daily.dev](https://daily.dev/) 🌟: A professional network for developers to learn, collaborate, and grow together 👩‍💻.
-- [Reddit](https://www.reddit.com/): A network of communities based on people's interests including tech.
+- [Reddit](https://www.reddit.com/): A network of communities based on people's interests, including tech.
 - [Le Journal Du Hacker](https://www.journalduhacker.net/): L'actualité de la communauté "hacker" et du logiciel libre.
 - [Humans Coders News](https://news.humancoders.com/): L'actualité des développeurs.
 - [Hacker News](https://news.ycombinator.com/): A social news website focusing on computer science and entrepreneurship.
@@ -41,26 +43,23 @@ _A curated collection of cutting-edge tech resources for staying informed._ <br>
 - [NewsBlur](https://newsblur.com/): A personal news reader that brings people together to talk about the world.
 - [FreshRSS](https://freshrss.org/): A free, self-hostable aggregator.
 
-### Youtube Channels
+### YouTube Channels
 
 - [FreeCodeCamp](https://www.youtube.com/@FreeCodeCamp) 🌟: Official YouTube channel for FreeCodeCamp.org with free programming tutorials.
-- [Underscore_](https://www.youtube.com/@Underscore_): VOD + Replay des lives et vidéos de la chaîne Twitch Underscore_.
-- [cocadmin](https://www.youtube.com/@cocadmin): Sysadmin de l'extreme 🔥.
+- [Underscore_](https://www.youtube.com/@Underscore_): Replay des lives et vidéos de la chaîne Twitch Underscore_.
+- [cocadmin](https://www.youtube.com/@cocadmin): Sysadmin de l'extrême 🔥.
 
 ### Twitter Accounts
 
 - [Alex Xu](https://x.com/alexxubyte) 🌟: Co-Founder of ByteByteGo | Author of the bestselling book series: ‘System Design Interview’.
 - [Mehdi Zed](https://x.com/jesuisundev): Sr. Software Engineer at Electronic Arts.
-<<<<<<< Updated upstream
-=======
 - [Angry Tom](https://x.com/AngryTomtweets): Consultant & AI educator.
->>>>>>> Stashed changes
 
 ### Twitch Channels
 
 - [Underscore_](https://www.twitch.tv/Micode) 🌟: Le talk-show des passionnés de l'IT ➡️ 1 mercredi sur 2 à 19h sur twitch.tv/micode 🎙 Hacking, Dev, IA, Entrepreneuriat 🧑‍💻.
 - [RomainLanz](https://www.twitch.tv/romainlanz): [AdonisJS](https://adonisjs.com/) core member.
-- [devgirl_](https://www.twitch.tv/devgirl_): 👩‍💻 Web Dev
+- [devgirl_](https://www.twitch.tv/devgirl_): 👩‍💻 Web Dev.
 - [topklean](https://www.twitch.tv/topklean): Architecte SI technique.
 - [llcoolchris_](https://www.twitch.tv/llcoolchris_): Senior Software Engineer.
 - More channels are available in the Software and Development section: https://www.twitch.tv/directory/category/software-and-game-development.
@@ -72,7 +71,7 @@ _A curated collection of cutting-edge tech resources for staying informed._ <br>
 - [Humans Coders Podcast](https://open.spotify.com/show/3tLO8LmKVl96cSp7J3INwh?si=3f978cdaf3d74019): Le podcast des développeurs.
 - [JS Party](https://open.spotify.com/show/2ySVrxGkN6n6frMTo9Nsrt?si=e7d4f175b7564de6): A community celebration of JavaScript and the web.
 
-### Miscs
+### Misc
 
 - [Pocket](https://getpocket.com/home) 🌟: Personalize your Home to find interesting reads.
 - [Meetup](https://www.meetup.com/): Find events hosted by local groups where you can meet new people, try something new, or just do more of what you love.
