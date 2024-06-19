@@ -11,16 +11,14 @@ _A curated collection of cutting-edge tech resources for staying informed._ <br>
 
 ## Index
 
-- [Awesome Tech Insights](#awesome-tech-insights)
-  - [Index](#index)
-    - [Websites / Blogs](#websites--blogs)
-    - [Tech News Aggregators](#tech-news-aggregators)
-    - [RSS Aggregators](#rss-aggregators)
-    - [YouTube Channels](#youtube-channels)
-    - [Twitter Accounts](#twitter-accounts)
-    - [Twitch Channels](#twitch-channels)
-    - [Podcasts](#podcasts)
-    - [Misc](#misc)
+  - [Websites / Blogs](#websites--blogs)
+  - [Tech News Aggregators](#tech-news-aggregators)
+  - [RSS Aggregators](#rss-aggregators)
+  - [YouTube Channels](#youtube-channels)
+  - [Twitter Accounts](#twitter-accounts)
+  - [Twitch Channels](#twitch-channels)
+  - [Podcasts](#podcasts)
+  - [Misc](#misc)
 
 ### Websites / Blogs
 
