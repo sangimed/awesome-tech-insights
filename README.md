@@ -64,6 +64,7 @@ _A curated collection of cutting-edge tech resources for staying informed._ <br>
 - [topklean](https://www.twitch.tv/topklean): Architecte SI technique.
 - [llcoolchris_](https://www.twitch.tv/llcoolchris_): Senior Software Engineer.
 - [Twidi_Angel](https://www.twitch.tv/twidi_angel): Développeur Python.
+- [Yorzian](https://www.twitch.tv/yorzian): Expert Linux | Formateur | Vulgarisateur.
 
 ### Podcasts
 
