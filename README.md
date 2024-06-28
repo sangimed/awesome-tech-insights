@@ -74,6 +74,7 @@ _A curated collection of cutting-edge tech resources for staying informed._ <br>
 - [Underscore_](https://open.spotify.com/show/1sz1NhoHqbpXbzNlpOnFoz?si=03588253b757414d) - La version podcast du talk-show des passionnés de l'IT.
 - [Humans Coders Podcast](https://open.spotify.com/show/3tLO8LmKVl96cSp7J3INwh?si=3f978cdaf3d74019) - Le podcast des développeurs.
 - [JS Party](https://open.spotify.com/show/2ySVrxGkN6n6frMTo9Nsrt?si=e7d4f175b7564de6) - A community celebration of JavaScript and the web.
+- [The Stack Overflow Podcast](https://open.spotify.com/show/0e5eoM6w7eW9Wu7wMA04Tr?si=66a9dfd2e69949c5) - The official Stackoverflow Podcast.
 
 ### Misc
 
